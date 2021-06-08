@@ -11,6 +11,6 @@ BTN.addEventListener('click', () => {
     RESULT.textContent = "I'm so proud of you Son!"
   } else {
     alert('That was incorrect, son.')
-    RESULT.textContent = "Try again, son!"
+    RESULT.textContent = 'Try again, son!'
   }
 })
